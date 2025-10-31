@@ -19,12 +19,8 @@
 ## 🚀 Quick Start
 
 1. **Click the Colab badge above** to open the notebook
-2. **Set your GitHub username** in the first cell:
-   ```python
-   GITHUB_USERNAME = "Hai-Elkaim"
-   ```
-3. **Run all cells** in order
-4. **Start validating emails!**
+2. **Run all cells** in order (username déjà configuré: `Hai-Elkaim`)
+3. **Start validating emails!**
 
 ---
 
